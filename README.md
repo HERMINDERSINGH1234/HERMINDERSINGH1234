@@ -23,9 +23,7 @@ I'm an Enthusiastic ✨**Machine-learning Engineer and Android Development**✨
 ``` Front End - HTML, CSS, Bootstrap, Android```
 ``` Database - Mongodb, mySQL, PostgreSQL, Hadoop```
 ``` Domain Skills - Data-Science, Machine-Learning, Blockchain-Technology```
-<a href="https://github.com/harshareddy794">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshareddy794&theme=dark&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/HERMINDERSINGH1234">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-sreeram&show_icons=true&theme=dark&line_height=27" alt="venkata-sreeram's github stats"/>
 </a>
