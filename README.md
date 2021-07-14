@@ -1,9 +1,9 @@
 ![asf](https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif)
 
 ## Hey all :wave:
-This is Venkata Sreeram, a Jr.Data Analyst specilized in Python. I am also a Front-End Developer, Web Designer. A python developer as well.
+This is Herminder Singh, a software engineer. I am also a Front-End Developer, Web Designer. A python developer as well.
 
-I'm an Enthusiastic ✨**Machine-learning Engineer**✨ 
+I'm an Enthusiastic ✨**Machine-learning Engineer and Android Development**✨ 
 
 ## About Me:
 
