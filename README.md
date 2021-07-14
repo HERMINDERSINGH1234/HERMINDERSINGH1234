@@ -25,5 +25,5 @@ I'm an Enthusiastic ✨**Machine-learning Engineer and Android Development**✨
 ``` Domain Skills - Data-Science, Machine-Learning, Blockchain-Technology```
 
 <a href="https://github.com/HERMINDERSINGH1234">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkata-sreeram&show_icons=true&theme=dark&line_height=27" alt="venkata-sreeram's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HERMINDERSINGH1234&show_icons=true&theme=dark&line_height=27" alt="HERMINDERSINGH1234's github stats"/>
 </a>
